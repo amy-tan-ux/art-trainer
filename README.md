@@ -1,5 +1,5 @@
 # art-trainer
-This art trainer provides an environment for aspire artist to train themselves by using randomly generated prompts.
+This art trainer provides an environment for aspiring artist to train themselves by using randomly generated prompts.
 
 # Version 1: Shapes and Texture
 In this version, the generator will focus on shapes and texture (material). 
