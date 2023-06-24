@@ -14,6 +14,6 @@ Features:
 Version 2 extends version 1 to include another functionality to allow users to upload multiple images to use as the random prompts. 
 
 Features:
--The ai-trainer would randomly prompt from the uploaded images and the user (artist) can practice drawing that image. 
+- The ai-trainer would randomly prompt from the uploaded images and the user (artist) can practice drawing that image. 
 - The user can use the timer feature to timebox them and when they are done
 - the user can choose to generate next prompt or add more photos, or end.
